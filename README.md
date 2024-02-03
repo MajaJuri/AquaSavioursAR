@@ -1,4 +1,6 @@
-Cilj tog hackatona bio je kroz suradnju potaknuti razvoj inovativnih rješenja
+Play2Green je ERASMUS+ projekt koji radi na razvoju zelenih ozbiljnih igara koje se temelje na novim
+tehnologijama. Play2Green je 2023. godine organizirao hackaton koji se održao u
+Dubrovniku. Cilj tog hackatona bio je kroz suradnju potaknuti razvoj inovativnih rješenja
 usmjerenih prema održivosti i zaštiti okoliša. Nagradu za najbolji Figma prototip zelene
 ozbiljne igre osvojio je tim Ocean Rescue s igrom Aqua Saviours koja educira korisnike o
 onečišćenju oceana.
