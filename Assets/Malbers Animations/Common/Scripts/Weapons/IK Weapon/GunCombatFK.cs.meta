@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 157299cd8f49bf7479c69fa03b67e389
+timeCreated: 1495168670
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148877
+  packageName: Animal Controller
+  packageVersion: 1.4.2d
+  assetPath: Assets/Malbers Animations/Common/Scripts/Weapons/IK Weapon/GunCombatFK.cs
+  uploadId: 620293

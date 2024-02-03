@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c94c99b1d92c7b4d8619a12ecc34007
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148877
+  packageName: Animal Controller
+  packageVersion: 1.4.2d
+  assetPath: Assets/Malbers Animations/Common/Scripts/Weapons/Prefabs/Collectables/Spear
+    Collectable.prefab
+  uploadId: 620293

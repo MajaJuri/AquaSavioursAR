@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac80b7c40c2e6ba48b61a9325b0ecc2f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148877
+  packageName: Animal Controller
+  packageVersion: 1.4.2d
+  assetPath: Assets/Malbers Animations/Common/Scripts/Weapons/Prefabs/Collectables/Bow
+    Collectable.prefab
+  uploadId: 620293

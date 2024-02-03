@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a994a817486df5b449158031f79a28af
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148877
+  packageName: Animal Controller
+  packageVersion: 1.4.2d
+  assetPath: Assets/Malbers Animations/Common/Scripts/Weapons/Prefabs/Collectables/Fireball
+    Collectable.prefab
+  uploadId: 620293

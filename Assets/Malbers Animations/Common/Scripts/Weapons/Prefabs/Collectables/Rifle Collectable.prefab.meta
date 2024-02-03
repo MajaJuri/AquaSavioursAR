@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f41bd41d79ffdd7479f84c7035bb697e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148877
+  packageName: Animal Controller
+  packageVersion: 1.4.2d
+  assetPath: Assets/Malbers Animations/Common/Scripts/Weapons/Prefabs/Collectables/Rifle
+    Collectable.prefab
+  uploadId: 620293

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 19fc66fd28706ef4983ef3dd1acfb493
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148877
+  packageName: Animal Controller
+  packageVersion: 1.4.2d
+  assetPath: Assets/Malbers Animations/Common/Scripts/Weapons/Prefabs/UI/Bullets
+    UI.prefab
+  uploadId: 620293

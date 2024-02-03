@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2521a30bc9f056f42b40cf453780670a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148877
+  packageName: Animal Controller
+  packageVersion: 1.4.2d
+  assetPath: Assets/Malbers Animations/Common/Scripts/Weapons/Prefabs/Collectables/Rock
+    Collectable.prefab
+  uploadId: 620293

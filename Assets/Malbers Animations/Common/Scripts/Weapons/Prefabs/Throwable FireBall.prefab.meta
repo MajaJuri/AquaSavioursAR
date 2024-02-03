@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8030296245703fe4686001b427ad990a
+labels:
+- Weapon
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148877
+  packageName: Animal Controller
+  packageVersion: 1.4.2d
+  assetPath: Assets/Malbers Animations/Common/Scripts/Weapons/Prefabs/Throwable FireBall.prefab
+  uploadId: 620293

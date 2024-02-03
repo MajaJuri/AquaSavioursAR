@@ -1,0 +1,71 @@
+{
+  "animalFacts":
+  [
+    {
+      "animalName": "Squid",
+      "funFacts":
+	["Squids use ink as a defense mechanism. When threatened, they release a cloud of ink, allowing them to escape from predators.",
+	 "Squids are skilled swimmers and use a jet propulsion system to move through the water. They expel water forcefully to propel themselves forward.", 
+	 "Squids can rapidly change the color and pattern of their skin to blend in with their surroundings, making them excellent at avoiding predators.",
+	 "Squids have three hearts. This unique circulatory system helps them efficiently distribute oxygen.",
+	 "Most squids have a short lifespan, typically around one to two years.",
+	 "Squids have large and complex eyes. They are adapted for low-light conditions, making them effective hunters in the depths of the ocean.",
+	 "Squids have beak-like mouthparts, similar to that of a parrot. These beaks are used to grasp and tear apart prey."
+	]
+    },
+    {
+      "animalName": "Jellyfish",
+      "funFacts":
+	["Many jellyfish species are bioluminescent, meaning they can produce light. This adaptation serves various purposes, including attracting prey and deterring predators.",
+	 "Jellyfish are among the oldest living creatures on Earth, with a history dating back more than 500 million years.", 
+	 "Jellyfish do not have brains. Instead, they have a simple nervous system called a nerve net.",
+	 "Jellyfish move by contracting and relaxing their umbrella-shaped bells.",
+	 "Jellyfish have specialized stinging cells on their tentacles. These cells release venom when they come in contact with prey or predators."
+	]
+    },
+    {
+	"animalName": "Fish",
+	"funFacts":
+	["Many species of fish form schools to swim together in coordinated patterns. This behavior provides protection against predators and improves their chances of finding food.", 
+	 "Fish extract oxygen from water through their gills which are specialized organs that allow them to extract oxygen from the water they swim in.",
+	 "Fish scales serve as a protective layer, helping fish reduce friction as they move through the water and offering some defense against predators.",
+	 "Some fish, like electric eels and electric catfish, are capable of generating electric fields.",
+	 "There are over 30 000 known species of fish."
+	]
+    },
+    {
+	"animalName": "Octopus",
+	"funFacts":
+	["Octopuses are very intelligent. They can solve puzzles, open jars to obtain food, and more.", 
+	 "Octopuses have soft bodies and no internal or external skeleton. This flexibility allows them to squeeze through tight spaces and escape from predators.",
+	 "Like squids, octopuses move by expelling water through a funnel, providing them with a jet propulsion mechanism.",
+	 "Octopuses are known for their curiosity and explorative behaviors. They often interact with objects in their environment and are quick learners.",
+	 "Octopuses have the ability to regenerate lost limbs. If they lose an arm, they can regrow it, and in some cases, the regenerated limb may even be more robust than the original.",
+	"Most octopus species have relatively short lifespans, typically ranging from six months to a few years."
+	]
+    },
+    {
+	"animalName": "Orca",
+	"funFacts":
+	["Orcas are apex predators, meaning they are at the top of the marine food chain. They have a diverse diet that can include fish, seals, sea birds, and even whales.", 
+	 "Orcas are easily recognizable by their striking black and white coloration. Each individual has a unique pattern, and scientists use these patterns for identification.",
+	 "Orcas are known for their complex vocalizations and communication skills. They use clicks, whistles, and pulsed calls to communicate with each other, and different pods may have distinct dialects.",
+	 "Orcas live in tightly-knit family groups called pods. These pods are led by a matriarch, typically the oldest and most experienced female.",
+	 "Orcas can be found in oceans worldwide, from the Arctic to Antarctic regions. Different populations may have specific adaptations based on their habitat.",
+	"Orcas are fast swimmers, capable of reaching speeds of up to 56 km/h.",
+	"Despite being powerful predators, orcas face threats from human activities, such as pollution, habitat loss, and disturbances from boat traffic."
+	]
+    },
+    {
+	"animalName": "Shark",
+	"funFacts":
+	["Sharks have been around for a very long time, with a history dating back over 400 million years.", 
+	 "There are over 500 species of sharks. They come in various shapes and sizes.",
+	 "Many sharks need to swim continuously to breathe. Continuous swimming ensures a constant flow of water over their gills, allowing them to extract oxygen.",
+	 "Sharks possess a very good sense of smell. They are often able to detect blood in the water from miles away.",
+	 "Sharks are known for their multiple rows of teeth, and they have a unique tooth replacement system. When a tooth is lost, a new one from the rows behind it moves forward to replace it.",
+	"Sharks face various threats, including overfishing, habitat loss, and climate change. Conservation efforts are crucial to protect these important marine species and maintain the health of ocean ecosystems."
+	]
+    }
+  ]
+}

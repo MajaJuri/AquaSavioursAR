@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6327f99012e09404f86ebeb2c7bff1db
+labels:
+- Weapon
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148877
+  packageName: Animal Controller
+  packageVersion: 1.4.2d
+  assetPath: Assets/Malbers Animations/Common/Scripts/Weapons/Prefabs/Axe.prefab
+  uploadId: 620293

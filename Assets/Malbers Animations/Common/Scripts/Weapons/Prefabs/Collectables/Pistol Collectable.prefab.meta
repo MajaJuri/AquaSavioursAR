@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0a062809233ab7e499273ab1b7794fd4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148877
+  packageName: Animal Controller
+  packageVersion: 1.4.2d
+  assetPath: Assets/Malbers Animations/Common/Scripts/Weapons/Prefabs/Collectables/Pistol
+    Collectable.prefab
+  uploadId: 620293

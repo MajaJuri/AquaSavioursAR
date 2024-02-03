@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 487aee0407484d74d95f1d2b0be6846d
+timeCreated: 1509142034
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148877
+  packageName: Animal Controller
+  packageVersion: 1.4.2d
+  assetPath: Assets/Malbers Animations/Common/Scripts/Effects/EffectModifier.cs
+  uploadId: 620293
